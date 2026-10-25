@@ -1,0 +1,6 @@
+{
+  "name": "Authentic Beauty Salon & Studio",
+  "description": "High-end website concept for Authentic Beauty Salon & Studio in Cluj-Napoca, Romania featuring luxury styling, manicures, facial care, and wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
